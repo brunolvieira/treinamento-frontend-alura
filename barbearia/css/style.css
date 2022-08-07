@@ -6,7 +6,6 @@ body {
     padding-left: 20px;
 }
 
-/*Bloco principal*/
 .principal {
     background-color: #cccccc;
     padding: 30px;
@@ -32,7 +31,6 @@ em strong {
     width: 100%;
 }
 
-/*Bloco beneficios*/
 .beneficios {
     background-color: #ffffff;
     padding: 20px;
